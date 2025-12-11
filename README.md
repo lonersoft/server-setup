@@ -1,5 +1,5 @@
 > [!WARNING]  
-> ...yeah. you can tell that I haven't even started working on this porject. simple issue with scripts is that they take time to make, and due to my lack of motivation and mental health issues, I won't work on it, so i'm gonna start when vacation arrives, okay? :3
+> ...yeah. you can tell that I haven't even started working on this porject. simple issue with scripts is that they take time to make, and due to my lack of motivation and issues with  (mental health, I won't work on it, so i'm gonna start when vacation arrives, okay? :3
 > this project is also mostly tested on my old Aspire 3 laptop, which is pretty slow so be patient!
 
 # 🚀 server-setup
